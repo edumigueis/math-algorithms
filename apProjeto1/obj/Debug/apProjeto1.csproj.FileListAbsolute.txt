@@ -1,0 +1,21 @@
+Y:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\bin\Debug\apProjeto1.exe.config
+Y:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\bin\Debug\apProjeto1.exe
+Y:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\bin\Debug\apProjeto1.pdb
+Y:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\obj\Debug\apProjeto1.csprojAssemblyReference.cache
+Y:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\obj\Debug\apProjeto1.csproj.CoreCompileInputs.cache
+Y:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\obj\Debug\apProjeto1.exe
+Y:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\obj\Debug\apProjeto1.pdb
+Z:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\bin\Debug\apProjeto1.exe.config
+Z:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\bin\Debug\apProjeto1.exe
+Z:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\bin\Debug\apProjeto1.pdb
+Z:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\obj\Debug\apProjeto1.csproj.CoreCompileInputs.cache
+Z:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\obj\Debug\apProjeto1.exe
+Z:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\obj\Debug\apProjeto1.pdb
+Z:\Técnicas de programação\Projetos\apProjeto1\apProjeto1\obj\Debug\apProjeto1.csprojResolveAssemblyReference.cache
+D:\apProjeto1\apProjeto1\bin\Debug\apProjeto1.exe.config
+D:\apProjeto1\apProjeto1\bin\Debug\apProjeto1.exe
+D:\apProjeto1\apProjeto1\bin\Debug\apProjeto1.pdb
+D:\apProjeto1\apProjeto1\obj\Debug\apProjeto1.csprojAssemblyReference.cache
+D:\apProjeto1\apProjeto1\obj\Debug\apProjeto1.csproj.CoreCompileInputs.cache
+D:\apProjeto1\apProjeto1\obj\Debug\apProjeto1.exe
+D:\apProjeto1\apProjeto1\obj\Debug\apProjeto1.pdb
