@@ -19,3 +19,10 @@ D:\apProjeto1\apProjeto1\obj\Debug\apProjeto1.csprojAssemblyReference.cache
 D:\apProjeto1\apProjeto1\obj\Debug\apProjeto1.csproj.CoreCompileInputs.cache
 D:\apProjeto1\apProjeto1\obj\Debug\apProjeto1.exe
 D:\apProjeto1\apProjeto1\obj\Debug\apProjeto1.pdb
+C:\Dudu\COTUCA\Técnico\1° semestre\math-algorithms\apProjeto1\bin\Debug\apProjeto1.exe.config
+C:\Dudu\COTUCA\Técnico\1° semestre\math-algorithms\apProjeto1\bin\Debug\apProjeto1.exe
+C:\Dudu\COTUCA\Técnico\1° semestre\math-algorithms\apProjeto1\bin\Debug\apProjeto1.pdb
+C:\Dudu\COTUCA\Técnico\1° semestre\math-algorithms\apProjeto1\obj\Debug\apProjeto1.csprojAssemblyReference.cache
+C:\Dudu\COTUCA\Técnico\1° semestre\math-algorithms\apProjeto1\obj\Debug\apProjeto1.csproj.CoreCompileInputs.cache
+C:\Dudu\COTUCA\Técnico\1° semestre\math-algorithms\apProjeto1\obj\Debug\apProjeto1.exe
+C:\Dudu\COTUCA\Técnico\1° semestre\math-algorithms\apProjeto1\obj\Debug\apProjeto1.pdb
