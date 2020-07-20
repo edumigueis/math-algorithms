@@ -1,10 +1,10 @@
 # math-algorithms
 > Descrição curta sobre o que seu projeto faz.
 
-The operations presented in this project are:
-> Fibonacci Sequence
-> Least common multiple
-> Maximum common divisor
+###The operations presented in this project are:
+- Fibonacci Sequence
+- Least common multiple
+- Maximum common divisor
 
 ![](../header.png)
 
